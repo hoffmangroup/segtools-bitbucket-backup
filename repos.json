@@ -1,0 +1,8 @@
+{
+    "hoffmanlab/segtools": {
+        "project_file": "data/repositories/hoffmanlab/segtools.json",
+        "project_path": "data/repositories/hoffmanlab/segtools/",
+        "is_fork": false,
+        "github_repo": "https://github.com/hoffmangroup/segtools"
+    }
+}
